@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @sgoulden-unbounce
-- 👀 I’m interested in web technologies, specifically for Unbounce where I work as a Senior Fullstack Developer!
+- 👀 I’m interested in web technologies, specifically for Unbounce where I work as a Senior Frontend Developer!
